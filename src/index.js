@@ -30,6 +30,7 @@ module.exports = function openssl(params, callback = () => undefined) {
   const stdout = [];
   const stderr = [];
   const dir = "";
+
   let parameters = params;
 
   if (!isFunction(callback)) {
