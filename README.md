@@ -1,4 +1,4 @@
-# openssl-nodejs
+# openssl-nodejs (fork with some fixes)
 
 is a package which gives you a possibility to run every [OpenSSL](https://www.openssl.org/) command in [Node.js](https://nodejs.org/en/) in a handy way. Moreover, parameters like -in, -keyin, -config and etc can be replaced by a raw data ([Buffor](https://nodejs.org/dist/latest-v10.x/docs/api/buffer.html)).
 
